@@ -1,0 +1,2168 @@
+canonical_identifier: bkk:krp/KR6p0072/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0072/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蓮邦詩選
+  identifiers:
+    krp: KR6p0072
+    cbeta: X62n1207
+    cbeta_old_id: X62n1207
+    authorityid: CA0002044
+    json_key: X1207
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1207.xml
+    old_id: X62n1207
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0072_000-X.yaml, hash: 'sha256:4c3f59e6ccaac333cbd19ab6be6bee77042477df1fd3ebff7edaaf1fa34432fd'}
+  - {seq: 1, filename: KR6p0072_001-X.yaml, hash: 'sha256:aa94eb5a034d28f2c38ea477377f27ac22ad1124a20f044b8258e9a499f8d49f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0072_000-X.markers.yaml, hash: 'sha256:4c3e706c13c5494702688878eddd146e3e410f467d8d4bf5fb82224cde5289fc'}
+  - {seq: 1, role: markers, filename: assets/KR6p0072_001-X.markers.yaml, hash: 'sha256:35f088e56428d3a988e7e255a203d75e3d9726504d0a8c2a784f2506223e7faf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0072_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1207-A 蓮邦詩選序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0072_X_000-mulu-2
+    span:
+    - front
+    - 318
+    - 318
+  label: No. 1207-B 原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0072_X_000-mulu-3
+    span:
+    - front
+    - 1271
+    - 1271
+  label: 蓮󳬛詩選年代名號
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0072_X_000-mulu-4
+    span:
+    - front
+    - 1518
+    - 1518
+  label: 蓮󳬛詩選目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 23263
+  label: 蓮邦詩選
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 如來弘願序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-2
+    span:
+    - body
+    - 558
+    - 558
+  label: 如來弘願第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-3
+    span:
+    - body
+    - 564
+    - 564
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-4
+    span:
+    - body
+    - 765
+    - 765
+  label: 懷淨土（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-5
+    span:
+    - body
+    - 909
+    - 909
+  label: 阿彌陀佛讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-6
+    span:
+    - body
+    - 942
+    - 942
+  label: 頌以無緣慈攝受眾生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-7
+    span:
+    - body
+    - 981
+    - 981
+  label: 頌一一光明遍照十方世界念佛眾生攝取不捨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-8
+    span:
+    - body
+    - 1056
+    - 1056
+  label: 彌陀像贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-9
+    span:
+    - body
+    - 1183
+    - 1183
+  label: 苦勸迴韁序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-10
+    span:
+    - body
+    - 1702
+    - 1702
+  label: 苦勸迴韁第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-11
+    span:
+    - body
+    - 1708
+    - 1708
+  label: 警世（䟦陀羅）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-12
+    span:
+    - body
+    - 1741
+    - 1741
+  label: 警世（迦哩迦）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-13
+    span:
+    - body
+    - 1774
+    - 1774
+  label: 警世（半託迦）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-14
+    span:
+    - body
+    - 1807
+    - 1807
+  label: 勸念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-15
+    span:
+    - body
+    - 1861
+    - 1861
+  label: 古詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-16
+    span:
+    - body
+    - 2016
+    - 2016
+  label: 觀地獄圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-17
+    span:
+    - body
+    - 2062
+    - 2062
+  label: 警世（慈受）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-18
+    span:
+    - body
+    - 2106
+    - 2106
+  label: 又
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-19
+    span:
+    - body
+    - 2147
+    - 2147
+  label: 勸眾念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-20
+    span:
+    - body
+    - 2235
+    - 2235
+  label: 警下品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-21
+    span:
+    - body
+    - 2296
+    - 2296
+  label: 讚淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-22
+    span:
+    - body
+    - 2357
+    - 2357
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-23
+    span:
+    - body
+    - 2614
+    - 2614
+  label: 淨土詩（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-24
+    span:
+    - body
+    - 3290
+    - 3290
+  label: 警世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-25
+    span:
+    - body
+    - 3320
+    - 3320
+  label: 警世（石屋）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-26
+    span:
+    - body
+    - 3352
+    - 3352
+  label: 勸世念佛頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-27
+    span:
+    - body
+    - 3387
+    - 3387
+  label: 勸念佛（優曇）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-28
+    span:
+    - body
+    - 3532
+    - 3532
+  label: 警悟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-29
+    span:
+    - body
+    - 3590
+    - 3590
+  label: 念佛偈（廣製）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-30
+    span:
+    - body
+    - 3623
+    - 3623
+  label: 望江南
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-31
+    span:
+    - body
+    - 3736
+    - 3736
+  label: 懷淨土（楚石）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-32
+    span:
+    - body
+    - 4077
+    - 4077
+  label: 淨土詩（度門）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-33
+    span:
+    - body
+    - 4138
+    - 4138
+  label: 勸修淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-34
+    span:
+    - body
+    - 4172
+    - 4172
+  label: 頌下品中下生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-35
+    span:
+    - body
+    - 4273
+    - 4273
+  label: 稱佛名故於念念中除八十億劫生死之罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-36
+    span:
+    - body
+    - 4346
+    - 4346
+  label: 即此心識造地獄即此心識見佛成佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-37
+    span:
+    - body
+    - 4389
+    - 4389
+  label: 總頌下品三生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-38
+    span:
+    - body
+    - 4423
+    - 4423
+  label: 淨土偈（蕅益）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-39
+    span:
+    - body
+    - 4540
+    - 4540
+  label: 懷淨土詩（蓮隱）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-40
+    span:
+    - body
+    - 4656
+    - 4656
+  label: 勸念佛（沈芝塘）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-41
+    span:
+    - body
+    - 4722
+    - 4722
+  label: 翻然嚮往序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-42
+    span:
+    - body
+    - 5304
+    - 5304
+  label: 翻然嚮往第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-43
+    span:
+    - body
+    - 5310
+    - 5310
+  label: 淨土詩（謝靈運）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-44
+    span:
+    - body
+    - 5356
+    - 5356
+  label: 病中𦘕西方變相願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-45
+    span:
+    - body
+    - 5395
+    - 5395
+  label: 送臻師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-46
+    span:
+    - body
+    - 5429
+    - 5429
+  label: 𦘕阿彌陀佛像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-47
+    span:
+    - body
+    - 5603
+    - 5603
+  label: 發願偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-48
+    span:
+    - body
+    - 5636
+    - 5636
+  label: 勸修淨土頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-49
+    span:
+    - body
+    - 5699
+    - 5699
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-50
+    span:
+    - body
+    - 5844
+    - 5844
+  label: 淨土詩（許自新）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-51
+    span:
+    - body
+    - 5869
+    - 5869
+  label: 往生偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-52
+    span:
+    - body
+    - 5904
+    - 5904
+  label: 懷淨土（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-53
+    span:
+    - body
+    - 5937
+    - 5937
+  label: 勸念佛（優曇）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-54
+    span:
+    - body
+    - 6026
+    - 6026
+  label: 懷淨土（楚石）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-55
+    span:
+    - body
+    - 6087
+    - 6087
+  label: 淨土詩（雪嶠）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-56
+    span:
+    - body
+    - 6147
+    - 6147
+  label: 淨土詩（耑愚）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-57
+    span:
+    - body
+    - 6236
+    - 6236
+  label: 懷淨土詩（沈朗倩）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-58
+    span:
+    - body
+    - 6271
+    - 6271
+  label: 淨土偈（蕅益）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-59
+    span:
+    - body
+    - 6332
+    - 6332
+  label: 淨土偈（永覺）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-60
+    span:
+    - body
+    - 6365
+    - 6365
+  label: 念佛偈（聞學）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-61
+    span:
+    - body
+    - 6390
+    - 6390
+  label: 懷淨土詩（蓮隱）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-62
+    span:
+    - body
+    - 6452
+    - 6452
+  label: 勸念佛（沈芝塘）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-63
+    span:
+    - body
+    - 6478
+    - 6478
+  label: 一意西馳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-64
+    span:
+    - body
+    - 6854
+    - 6854
+  label: 一意西馳第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-65
+    span:
+    - body
+    - 6860
+    - 6860
+  label: 無量壽佛讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-66
+    span:
+    - body
+    - 6993
+    - 6993
+  label: 懷安養故鄉詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-67
+    span:
+    - body
+    - 7113
+    - 7113
+  label: 憶佛軒詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-68
+    span:
+    - body
+    - 7663
+    - 7663
+  label: 懷西方詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-69
+    span:
+    - body
+    - 7725
+    - 7725
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-70
+    span:
+    - body
+    - 7982
+    - 7982
+  label: 懷淨土（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-71
+    span:
+    - body
+    - 8266
+    - 8266
+  label: 懷安養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-72
+    span:
+    - body
+    - 8487
+    - 8487
+  label: 淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-73
+    span:
+    - body
+    - 8518
+    - 8518
+  label: 懷淨土（楚石）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-74
+    span:
+    - body
+    - 8802
+    - 8802
+  label: 淨土詩（笑巖）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-75
+    span:
+    - body
+    - 8919
+    - 8919
+  label: 懷淨土（古溪）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-76
+    span:
+    - body
+    - 8980
+    - 8980
+  label: 淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-77
+    span:
+    - body
+    - 9011
+    - 9011
+  label: 淨土詩（耑愚）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-78
+    span:
+    - body
+    - 9044
+    - 9044
+  label: 淨土詩（晦夫）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-79
+    span:
+    - body
+    - 9077
+    - 9077
+  label: 淨土詩（丁蓮侶）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-80
+    span:
+    - body
+    - 9111
+    - 9111
+  label: 淨土詩（沈朗倩）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-81
+    span:
+    - body
+    - 9173
+    - 9173
+  label: 淨土偈（蕅益）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-82
+    span:
+    - body
+    - 9318
+    - 9318
+  label: 示莊居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-83
+    span:
+    - body
+    - 9352
+    - 9352
+  label: 示達理上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-84
+    span:
+    - body
+    - 9385
+    - 9385
+  label: 念佛偈（聞學）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-85
+    span:
+    - body
+    - 9410
+    - 9410
+  label: 勸念佛（沈芝塘）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-86
+    span:
+    - body
+    - 9456
+    - 9456
+  label: 執持名號序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-87
+    span:
+    - body
+    - 9824
+    - 9824
+  label: 執持名號第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-88
+    span:
+    - body
+    - 9830
+    - 9830
+  label: 念佛偈（白香山）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-89
+    span:
+    - body
+    - 9936
+    - 9936
+  label: 懷淨土（北山）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-90
+    span:
+    - body
+    - 10136
+    - 10136
+  label: 淨土詩（一元）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-91
+    span:
+    - body
+    - 10309
+    - 10309
+  label: 念佛偈（古音）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-92
+    span:
+    - body
+    - 10362
+    - 10362
+  label: 淨土詩（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-93
+    span:
+    - body
+    - 10507
+    - 10507
+  label: 念佛詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-94
+    span:
+    - body
+    - 10736
+    - 10736
+  label: 懺淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-95
+    span:
+    - body
+    - 10853
+    - 10853
+  label: 除夕上堂有出多娑婆三韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-96
+    span:
+    - body
+    - 10894
+    - 10894
+  label: 示大掉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-97
+    span:
+    - body
+    - 10957
+    - 10957
+  label: 答慈聖皇太后問法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-98
+    span:
+    - body
+    - 11095
+    - 11095
+  label: 淨土詩（雪嶠）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-99
+    span:
+    - body
+    - 11128
+    - 11128
+  label: 淨土詩（失名）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-100
+    span:
+    - body
+    - 11161
+    - 11161
+  label: 念佛偈（頂目）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-101
+    span:
+    - body
+    - 11222
+    - 11222
+  label: 懷淨土（沈朗倩）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-102
+    span:
+    - body
+    - 11312
+    - 11312
+  label: 念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-103
+    span:
+    - body
+    - 11343
+    - 11343
+  label: 頌執持名號一心不亂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-104
+    span:
+    - body
+    - 11410
+    - 11410
+  label: 淨土偈（蕅益）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-105
+    span:
+    - body
+    - 11442
+    - 11442
+  label: 佛會偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-106
+    span:
+    - body
+    - 11501
+    - 11501
+  label: 示林泡庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-107
+    span:
+    - body
+    - 11563
+    - 11563
+  label: 念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-108
+    span:
+    - body
+    - 11594
+    - 11594
+  label: 示吳善友
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-109
+    span:
+    - body
+    - 11646
+    - 11646
+  label: 念佛偈（聞學）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-110
+    span:
+    - body
+    - 11671
+    - 11671
+  label: 懷淨土詩（蓮隱）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-111
+    span:
+    - body
+    - 11789
+    - 11789
+  label: 勸念佛（沈芝塘）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-112
+    span:
+    - body
+    - 11835
+    - 11835
+  label: 聖境現前序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-113
+    span:
+    - body
+    - 12106
+    - 12106
+  label: 聖境現前第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-114
+    span:
+    - body
+    - 12112
+    - 12112
+  label: 淨土詩（阿氏多）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-115
+    span:
+    - body
+    - 12146
+    - 12146
+  label: 九品蓮花偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-116
+    span:
+    - body
+    - 12314
+    - 12314
+  label: 往生偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-117
+    span:
+    - body
+    - 12359
+    - 12359
+  label: 淨土詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-118
+    span:
+    - body
+    - 12445
+    - 12445
+  label: 臨終生西偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-119
+    span:
+    - body
+    - 12472
+    - 12472
+  label: 西歸軒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-120
+    span:
+    - body
+    - 12533
+    - 12533
+  label: 懷西方
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-121
+    span:
+    - body
+    - 12734
+    - 12734
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-122
+    span:
+    - body
+    - 12823
+    - 12823
+  label: 懷淨土（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-123
+    span:
+    - body
+    - 12940
+    - 12940
+  label: 淨土讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-124
+    span:
+    - body
+    - 12971
+    - 12971
+  label: 淨土詩（楚石）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-125
+    span:
+    - body
+    - 14137
+    - 14137
+  label: 淨土詩（古溪）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-126
+    span:
+    - body
+    - 14254
+    - 14254
+  label: 淨土詩（博山）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-127
+    span:
+    - body
+    - 14343
+    - 14343
+  label: 淨土詩（沈朗倩）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-128
+    span:
+    - body
+    - 14377
+    - 14377
+  label: 詠日觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-129
+    span:
+    - body
+    - 14410
+    - 14410
+  label: 詠水觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-130
+    span:
+    - body
+    - 14413
+    - 14413
+  label: 氷結琉璃
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-131
+    span:
+    - body
+    - 14445
+    - 14445
+  label: 寶幢光明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-132
+    span:
+    - body
+    - 14477
+    - 14477
+  label: 華幢演法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-133
+    span:
+    - body
+    - 14509
+    - 14509
+  label: 詠八功德池水觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-134
+    span:
+    - body
+    - 14585
+    - 14585
+  label: 池開寶蓮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-135
+    span:
+    - body
+    - 14617
+    - 14617
+  label: 水流說法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-136
+    span:
+    - body
+    - 14649
+    - 14649
+  label: 鳥聲說法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-137
+    span:
+    - body
+    - 14681
+    - 14681
+  label: 詠樓閣總觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-138
+    span:
+    - body
+    - 14714
+    - 14714
+  label: 水觀別詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-139
+    span:
+    - body
+    - 14746
+    - 14746
+  label: 鳥鳴說法別詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-140
+    span:
+    - body
+    - 14780
+    - 14780
+  label: 樹說法別詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-141
+    span:
+    - body
+    - 14811
+    - 14811
+  label: 總詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-142
+    span:
+    - body
+    - 14840
+    - 14840
+  label: 頌起自心生於西方極樂世界於蓮華中結跏趺坐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-143
+    span:
+    - body
+    - 14916
+    - 14916
+  label: 淨土偈（永覺）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-144
+    span:
+    - body
+    - 14949
+    - 14949
+  label: 念佛偈（聞學）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-145
+    span:
+    - body
+    - 14974
+    - 14974
+  label: 懷淨土詩（蓮隱）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-146
+    span:
+    - body
+    - 15035
+    - 15035
+  label: 發明心地序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-147
+    span:
+    - body
+    - 15442
+    - 15442
+  label: 發明心地第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-148
+    span:
+    - body
+    - 15448
+    - 15448
+  label: 念佛頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-149
+    span:
+    - body
+    - 15481
+    - 15481
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-150
+    span:
+    - body
+    - 15654
+    - 15654
+  label: 念佛心要頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-151
+    span:
+    - body
+    - 15814
+    - 15814
+  label: 懷淨土（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-152
+    span:
+    - body
+    - 16853
+    - 16853
+  label: 念佛詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-153
+    span:
+    - body
+    - 17646
+    - 17646
+  label: 懷淨土詩（楚石）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-154
+    span:
+    - body
+    - 17988
+    - 17988
+  label: 勸禪者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-155
+    span:
+    - body
+    - 18047
+    - 18047
+  label: 示某念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-156
+    span:
+    - body
+    - 18094
+    - 18094
+  label: 生日偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-157
+    span:
+    - body
+    - 18125
+    - 18125
+  label: 淨土詩（雪嶠）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-158
+    span:
+    - body
+    - 18158
+    - 18158
+  label: 淨土詩（博山）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-159
+    span:
+    - body
+    - 18471
+    - 18471
+  label: 淨土詩（耑愚）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-160
+    span:
+    - body
+    - 18643
+    - 18643
+  label: 觀世音圓通頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-161
+    span:
+    - body
+    - 18985
+    - 18985
+  label: 淨土詩（晦夫）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-162
+    span:
+    - body
+    - 19046
+    - 19046
+  label: 淨土詩（萍踪）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-163
+    span:
+    - body
+    - 19079
+    - 19079
+  label: 淨土偈（沈朗倩）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-164
+    span:
+    - body
+    - 19113
+    - 19113
+  label: 頌諸佛如來是法界身入一切眾生心想中
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-165
+    span:
+    - body
+    - 19160
+    - 19160
+  label: 頌心想佛時是心即是三十二相八十隨形好
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-166
+    span:
+    - body
+    - 19234
+    - 19234
+  label: 頌是心是佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-167
+    span:
+    - body
+    - 19323
+    - 19323
+  label: 頌諸佛正遍知海從心想生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-168
+    span:
+    - body
+    - 19390
+    - 19390
+  label: 頌見眉間白毫相者八萬四千相好自然當現
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-169
+    span:
+    - body
+    - 19464
+    - 19464
+  label: 頌上品中生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-170
+    span:
+    - body
+    - 19597
+    - 19597
+  label: 淨土偈（蕅益）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-171
+    span:
+    - body
+    - 19763
+    - 19763
+  label: 示修淨業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-172
+    span:
+    - body
+    - 19881
+    - 19881
+  label: 念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-173
+    span:
+    - body
+    - 19992
+    - 19992
+  label: 示淨土社諸友
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-174
+    span:
+    - body
+    - 20194
+    - 20194
+  label: 淨土偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-175
+    span:
+    - body
+    - 20225
+    - 20225
+  label: 示念佛眾善友
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-176
+    span:
+    - body
+    - 20289
+    - 20289
+  label: 念佛偈（聞學）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-177
+    span:
+    - body
+    - 20334
+    - 20334
+  label: 懷淨土詩（蓮隱）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-178
+    span:
+    - body
+    - 20395
+    - 20395
+  label: 淨土詩（鳳翔）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-179
+    span:
+    - body
+    - 20512
+    - 20512
+  label: 勸念佛（沈芝塘）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-180
+    span:
+    - body
+    - 20538
+    - 20538
+  label: 淨土偈（賀壽昌）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-181
+    span:
+    - body
+    - 20571
+    - 20571
+  label: 華開見佛序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-182
+    span:
+    - body
+    - 20989
+    - 20989
+  label: 華開見佛第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-183
+    span:
+    - body
+    - 20995
+    - 20995
+  label: 淨土詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-184
+    span:
+    - body
+    - 21131
+    - 21131
+  label: 臨終生淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-185
+    span:
+    - body
+    - 21167
+    - 21167
+  label: 臨終半月前偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-186
+    span:
+    - body
+    - 21197
+    - 21197
+  label: 勸眾念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-187
+    span:
+    - body
+    - 21231
+    - 21231
+  label: 生淨土偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-188
+    span:
+    - body
+    - 21265
+    - 21265
+  label: 懷淨土（北山）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-189
+    span:
+    - body
+    - 21408
+    - 21408
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-190
+    span:
+    - body
+    - 21469
+    - 21469
+  label: 懷淨土（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-191
+    span:
+    - body
+    - 21530
+    - 21530
+  label: 彌陀頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-192
+    span:
+    - body
+    - 21589
+    - 21589
+  label: 淨土詩（博山）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-193
+    span:
+    - body
+    - 21678
+    - 21678
+  label: 頌是心作佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-194
+    span:
+    - body
+    - 21797
+    - 21797
+  label: 頌上品上生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-195
+    span:
+    - body
+    - 21881
+    - 21881
+  label: 示鄭用弼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-196
+    span:
+    - body
+    - 21927
+    - 21927
+  label: 勸念佛（沈芝塘）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-197
+    span:
+    - body
+    - 21953
+    - 21953
+  label: 廣度眾生序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-198
+    span:
+    - body
+    - 22458
+    - 22458
+  label: 廣度眾生第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-199
+    span:
+    - body
+    - 22464
+    - 22464
+  label: 頌念阿彌陀佛結十萬緣會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-200
+    span:
+    - body
+    - 22506
+    - 22506
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-201
+    span:
+    - body
+    - 22595
+    - 22595
+  label: 讚喻彌陀偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-202
+    span:
+    - body
+    - 22666
+    - 22666
+  label: 懷淨土（中峯）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-203
+    span:
+    - body
+    - 22727
+    - 22727
+  label: 普勸念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-204
+    span:
+    - body
+    - 22957
+    - 22957
+  label: 懷淨土（楚石）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-205
+    span:
+    - body
+    - 23018
+    - 23018
+  label: 勸琴者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-206
+    span:
+    - body
+    - 23077
+    - 23077
+  label: 勸樵夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-207
+    span:
+    - body
+    - 23136
+    - 23136
+  label: 勸山居人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-208
+    span:
+    - body
+    - 23195
+    - 23195
+  label: 淨土詩（博山）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0072_X_001-mulu-209
+    span:
+    - body
+    - 23228
+    - 23228
+  label: 示達理上人
+  type: mulu
+  level: 1
+hash: sha256:c46f590b6ed59ff411530eade48ebb25beaced695873e58dcbda0a97f6092197
