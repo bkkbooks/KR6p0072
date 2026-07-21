@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0072_000-X.yaml, hash: 'sha256:4c3f59e6ccaac333cbd19ab6be6bee77042477df1fd3ebff7edaaf1fa34432fd'}
+  - {seq: 0, filename: KR6p0072_000-X.yaml, hash: 'sha256:ff013c4eb46167b72d028b8db3aca6983226ba5f2e8037fc4cb99187ae5fd51c'}
   - {seq: 1, filename: KR6p0072_001-X.yaml, hash: 'sha256:aa94eb5a034d28f2c38ea477377f27ac22ad1124a20f044b8258e9a499f8d49f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0072_000-X.markers.yaml, hash: 'sha256:4c3e706c13c5494702688878eddd146e3e410f467d8d4bf5fb82224cde5289fc'}
+  - {seq: 0, role: markers, filename: assets/KR6p0072_000-X.markers.yaml, hash: 'sha256:20b6e1b7297001b888e85f5e3d2493bfbf3d16f7d382986bb3b73094a9e64f39'}
   - {seq: 1, role: markers, filename: assets/KR6p0072_001-X.markers.yaml, hash: 'sha256:35f088e56428d3a988e7e255a203d75e3d9726504d0a8c2a784f2506223e7faf'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0072_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1207-A 蓮邦詩選序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0072_X_000-mulu-2
     span:
-    - front
+    - body
     - 318
     - 318
   label: No. 1207-B 原序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0072_X_000-mulu-3
     span:
-    - front
+    - body
     - 1271
     - 1271
   label: 蓮󳬛詩選年代名號
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0072_X_000-mulu-4
     span:
-    - front
+    - body
     - 1518
     - 1518
   label: 蓮󳬛詩選目錄
@@ -2165,4 +2165,4 @@ table_of_contents:
   label: 示達理上人
   type: mulu
   level: 1
-hash: sha256:c46f590b6ed59ff411530eade48ebb25beaced695873e58dcbda0a97f6092197
+hash: sha256:fa0bfd76858ef23536634bf50dfb2b42119d1265697765b6f4016807db4a554b
